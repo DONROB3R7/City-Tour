@@ -5,7 +5,7 @@ import "./styles.scss";
 
 class App extends Component {
   render() {
-    return <h1>Our Current App</h1>;
+    return <h1>City Tour</h1>;
   }
 }
 
